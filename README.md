@@ -1,4 +1,4 @@
-This project is focused on information systems analysis and design. It includes four parts (Assignment 3, 4, 5, and 6) and is based off of a fictious application called the BestPurchase application.
+This project is focused on information systems analysis and design. It includes four parts (Assignment 3, 4, 5, and 6) and is based off of a fictious application called the BestPurchase Application.
 
 Part 1 (Assignment 3)
 Focuses on defining the scope and mission statement, as well as the creation of user stories and use cases. Functional and non-functional requirements are determined, and the State Transition, Sub-States, and Graphical User Interface designs are created.
