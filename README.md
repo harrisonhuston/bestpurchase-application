@@ -12,3 +12,5 @@ Focuses on the design goals and data flows. The Class Model diagram is revised t
 
 Part 4
 Focuses on specifying design details. An updated Class Model diagram is presented. A method from the Class Model diagram is selected and an Activity diagram pertaining to this method is displayed. A Focused Sequence diagram is created based on an activity from the Activity diagram. Lastly, pseudocode is created for the selected method.
+
+Harrison Huston, 2023
